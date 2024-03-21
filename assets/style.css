@@ -313,6 +313,9 @@ footer {
     right: 0;
     z-index: -1;
   }
+  footer {
+    flex-direction: column;
+  }
 }
 @media all and (max-width: 650px) {
   header {
