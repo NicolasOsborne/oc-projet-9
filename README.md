@@ -1,7 +1,7 @@
 
 # Projet 9 - Formation OpenClassrooms - Nina Carducci
 
-Optimiser le référencement d'un site de photographe
+Optimiser le référencement et les performances d'un site de photographe
 
 ## Outils utilisés :
 
